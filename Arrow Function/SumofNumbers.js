@@ -6,4 +6,4 @@ var number = [1,3,6,4,9]
       }
       console.log(temp)
   }
-  sum(number)
+  sum(number);
