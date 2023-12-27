@@ -8,6 +8,6 @@ var input = [3,6,8,6,1,5,1,8]
                }
            }
        }
-       console.log(input)
+       console.log(input);
    }
    duplicate()
